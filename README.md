@@ -1,13 +1,13 @@
 # instalador-wpp
 
-```markdown
 
-## Atualização do Servidor
 
-```bash
+# Atualização do Servidor
+
+``` bash
 apt update
 apt upgrade
-```
+````
 
 ## AAPANEL
 
