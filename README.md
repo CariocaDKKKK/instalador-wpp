@@ -1,11 +1,6 @@
 # instalador-wpp
 
 ```markdown
-# Documento de Instalação
-
-Siga as aulas para aprender a usar essa documentação, não pule nenhuma etapa. (Só use essa documentação seguindo as aulas)
-
-**Atenção:** Esses links abaixo NÃO são clicáveis, eles são utilizados apenas durante o processo de instalação. O código fonte e instalador você encontra no módulo bônus para download.
 
 ## Atualização do Servidor
 
